@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I am Khairul Ikhwan
+
+I am a final-year student studying Electrical & Electronics Engineering at Universiti Teknologi PETRONAS. I am interested in web development, app development, CTF, and CP.
+
 
 <!--
 **khairlikhwn/khairlikhwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
