@@ -1,6 +1,6 @@
-### Hi there 👋, I am Khairul Ikhwan
+# Hi there 👋 I am Khairul Ikhwan
 
-<img width="100%" src="animation.gif" />
+<img width="100%" src="animation_compressed.gif" />
 
 I am a final-year student studying Electrical & Electronics Engineering at Universiti Teknologi PETRONAS. I am interested in web development, app development, CTF, and CP.
 
